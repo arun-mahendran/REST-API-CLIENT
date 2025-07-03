@@ -16,7 +16,7 @@
 
 *Objective*:
 
-The objective of this internship task is to develop a console-based Java application that interacts with a public RESTful API to fetch and display real-time weather data. This task demonstrates practical knowledge of HTTP networking in Java, JSON parsing, and integration of third-party libraries in a Java development environment. It also provides hands-on experience with Visual Studio Code as the primary IDE.
+The objective of this task is to develop a console-based Java application that interacts with a public RESTful API to fetch and display real-time weather data. This task demonstrates practical knowledge of HTTP networking in Java, JSON parsing, and integration of third-party libraries in a Java development environment. It also provides hands-on experience with Visual Studio Code as the primary IDE.
 
 *Project Overview*:
 
