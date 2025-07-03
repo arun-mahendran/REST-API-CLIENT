@@ -30,8 +30,10 @@ Structured Output: Displays weather details in a clean and readable format in th
 
 *Technologies and Tools Used*:
 
-Programming Language: Java 
+Programming Language: Java
+
 IDE: Visual Studio Code
+
 
 *Libraries/Packages*:
 
